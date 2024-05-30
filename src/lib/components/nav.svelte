@@ -18,7 +18,7 @@
 </nav>
 
 <style>
-    nav {
+    .barra {
         display: flex;
         justify-content:space-between;
         border-radius: 15px;
