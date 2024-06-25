@@ -68,7 +68,7 @@
         </p>
         
         <div style="width: 100%; height: 500px; margin-top: 20px;">
-            <iframe src="educazione civica peppino impastato.pdf" width="100%" height="500"></iframe>
+            <iframe src="educazione civica peppino impastato.pdf/" width="100%" height="500"></iframe>
         </div>
 
         <hr>
@@ -133,7 +133,7 @@
            <p>La pena di morte, o pena capitale, è l'esecuzione di una persona condannata per crimini gravi come omicidio o terrorismo. È un argomento controverso: i sostenitori credono che serva da deterrente e giustizia, mentre gli oppositori la considerano inumana e soggetta a errori giudiziari. Molti paesi l'hanno abolita, ma è ancora in uso in alcuni, provocando dibattiti internazionali.</p> 
              
         <div style="width: 100%; height: 500px; margin-top: 20px;">
-            <iframe src="pena_di_morte.pdf" width="100%" height="500"></iframe>
+            <iframe src="/pena_di_morte.pdf/" width="100%" height="500"></iframe>
         </div>
         <hr>
         <p>
