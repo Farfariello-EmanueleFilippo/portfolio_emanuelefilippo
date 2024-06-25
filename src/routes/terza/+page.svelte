@@ -62,7 +62,7 @@
         </p>
         
         <div style="width: 100%; height: 500px; margin-top: 20px;">
-            <iframe src="./presentazione-falcone-e-borsellino.pdf" width="100%" height="500"></iframe>
+            <iframe src="./static/presentazione-falcone-e-borsellino.pdf" width="100%" height="500"></iframe>
         </div>
 
         <p> inoltre abbiamo avuto la fortuna di conoscere Salvatore Borsellino attraverso una meet, poichè Esso è un componente importantissimo in agende rosse </p>
@@ -105,7 +105,7 @@
         </p>
 
         <div style="width: 100%; height: 500px; margin-top: 20px;">
-            <iframe src="./Cittadinanza-Digitale-_4_-_2_.pdf" width="100%" height="500"></iframe>
+            <iframe src="./static/Cittadinanza-Digitale-_4_-_2_.pdf" width="100%" height="500"></iframe>
 
         </div>
 
