@@ -5,7 +5,7 @@
 </svelte:head>
 
 <nav class="barra">
-    <img id="logo" src="/logo_agnelli.png" alt="logo">
+    <img id="logo" src="./logo_agnelli.png" alt="logo">
 
     <h1 class="nav_titolo">Emanuele Filippo Farfariello </h1>
 
