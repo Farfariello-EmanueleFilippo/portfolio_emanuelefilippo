@@ -60,7 +60,7 @@
         <p>Il curriculum vitae presentato insieme alla lettera di presentazione è stato utilizzato anche per le aziende che sono venute in visita presso la scuola.</p>
         
         <div style="width: 100%; height: 500px; margin-top: 20px;">
-            <iframe src="./static/cvformatoeuropeoB.pdf" width="100%" height="500"></iframe>
+            <iframe src="./cvformatoeuropeoB.pdf" width="100%" height="500"></iframe>
         </div>
         
         <h4> lettera di presentazione: </h4>
@@ -83,7 +83,7 @@
         </p>
 
         <div style="width: 100%; height: 500px; margin-top: 20px;">
-            <iframe src="./static/the risks and dangers of video games,.pdf" width="100%" height="500"></iframe>
+            <iframe src="./the risks and dangers of video games,.pdf" width="100%" height="500"></iframe>
 
         </div>
 
@@ -94,7 +94,7 @@
             Nel contesto delle prigioni, si affronta la complessa realtà del sistema carcerario attuale, evidenziando tutti i disagi e le problematiche presenti. In particolare, si esamina la situazione delle prigioni collocate al di fuori delle città, esplorando le implicazioni sociali, economiche e logistiche di tale scelta. Si pone l'attenzione sui vari fattori che contribuiscono alla sovraffollamento carcerario, alla mancanza di risorse e alla difficoltà di riabilitazione dei detenuti. Si esplora anche l'impatto che la collocazione delle prigioni al di fuori delle aree urbane ha sulla vita dei detenuti, sulle loro famiglie e sulle comunità circostanti. Questo approfondimento mira a stimolare una riflessione critica sul sistema penitenziario e a promuovere un dibattito costruttivo su possibili soluzioni e miglioramenti.
         </p>
         <div style="width: 100%; height: 500px; margin-top: 20px;">
-            <iframe src="./static/prigioni.pdf" width="100%" height="500"></iframe>
+            <iframe src="./prigioni.pdf" width="100%" height="500"></iframe>
 
         </div>
         <hr>
